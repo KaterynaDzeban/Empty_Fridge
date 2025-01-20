@@ -1,0 +1,978 @@
+[
+  {
+    "name": "Banana Smoothie",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 2
+      },
+      {
+        "name": "milk",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Blend bananas and milk until smooth.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "cheese",
+        "quantity": 2
+      },
+      {
+        "name": "butter",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Butter bread, place cheese between slices, and grill until golden brown.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Eggs Scrambled",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 3
+      },
+      {
+        "name": "butter",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Whisk eggs, cook in a pan with butter, and stir occasionally.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Apple Juice",
+    "ingredients": [
+      {
+        "name": "apple",
+        "quantity": 2
+      }
+    ],
+    "instructions": "Juice the apples and serve.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Toast with Butter",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "butter",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Toast the bread and spread with butter.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Egg Salad",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 3
+      },
+      {
+        "name": "mayonnaise",
+        "quantity": 0.3
+      }
+    ],
+    "instructions": "Boil eggs, chop them, and mix with mayonnaise.",
+    "time": "15 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Banana Bread",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 2
+      },
+      {
+        "name": "flour",
+        "quantity": 1
+      },
+      {
+        "name": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "name": "butter",
+        "quantity": 0.5
+      },
+      {
+        "name": "egg",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Mash bananas, mix with other ingredients, and bake at 180°C for 40 minutes.",
+    "time": "1 hour",
+    "difficulty": "medium"
+  },
+  {
+    "name": "Cheese Sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "cheese",
+        "quantity": 2
+      }
+    ],
+    "instructions": "Place cheese between slices of bread and serve.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Cucumber Salad",
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "quantity": 1
+      },
+      {
+        "name": "salt",
+        "quantity": 0.1
+      },
+      {
+        "name": "vinegar",
+        "quantity": 0.1
+      }
+    ],
+    "instructions": "Slice cucumber, sprinkle with salt and vinegar, and serve.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Fried Egg",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": 1
+      },
+      {
+        "name": "butter",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Fry the egg in butter until the yolk is cooked to your liking.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Peanut Butter Sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "peanut butter",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Spread peanut butter on bread slices and serve.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Toast with Jam",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "jam",
+        "quantity": 0.3
+      }
+    ],
+    "instructions": "Toast the bread and spread with jam.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Fruit Salad",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 1
+      },
+      {
+        "name": "apple",
+        "quantity": 1
+      },
+      {
+        "name": "orange",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Chop all fruits into pieces and mix.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Boiled Eggs",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": 3
+      }
+    ],
+    "instructions": "Boil eggs for 10 minutes.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Tomato Sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "tomato",
+        "quantity": 1
+      },
+      {
+        "name": "butter",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Place sliced tomato between slices of buttered bread.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Apple Pie",
+    "ingredients": [
+      {
+        "name": "apple",
+        "quantity": 3
+      },
+      {
+        "name": "sugar",
+        "quantity": 2
+      },
+      {
+        "name": "flour",
+        "quantity": 2
+      },
+      {
+        "name": "butter",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Mix ingredients and bake at 180°C for 40 minutes.",
+    "time": "1 hour",
+    "difficulty": "medium"
+  },
+  {
+    "name": "Banana Bread",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 2
+      },
+      {
+        "name": "flour",
+        "quantity": 3
+      },
+      {
+        "name": "sugar",
+        "quantity": 2
+      },
+      {
+        "name": "butter",
+        "quantity": 1
+      },
+      {
+        "name": "eggs",
+        "quantity": 2
+      }
+    ],
+    "instructions": "Mash bananas and mix all ingredients. Bake at 170°C for 50 minutes.",
+    "time": "1 hour 10 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "quantity": 200
+      },
+      {
+        "name": "ground beef",
+        "quantity": 300
+      },
+      {
+        "name": "tomato sauce",
+        "quantity": 2
+      },
+      {
+        "name": "garlic",
+        "quantity": 1
+      },
+      {
+        "name": "onion",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Cook spaghetti. Fry ground beef with garlic and onion, add tomato sauce. Serve with spaghetti.",
+    "time": "30 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "name": "Caesar Salad",
+    "ingredients": [
+      {
+        "name": "lettuce",
+        "quantity": 1
+      },
+      {
+        "name": "chicken",
+        "quantity": 200
+      },
+      {
+        "name": "croutons",
+        "quantity": 1
+      },
+      {
+        "name": "parmesan",
+        "quantity": 0.5
+      },
+      {
+        "name": "Caesar dressing",
+        "quantity": 0.3
+      }
+    ],
+    "instructions": "Mix lettuce, chicken, croutons, and dressing. Top with parmesan.",
+    "time": "15 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Chocolate Cake",
+    "ingredients": [
+      {
+        "name": "flour",
+        "quantity": 2
+      },
+      {
+        "name": "sugar",
+        "quantity": 2
+      },
+      {
+        "name": "cocoa powder",
+        "quantity": 1
+      },
+      {
+        "name": "eggs",
+        "quantity": 2
+      },
+      {
+        "name": "butter",
+        "quantity": 1
+      },
+      {
+        "name": "milk",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Mix all ingredients and bake at 180°C for 35 minutes.",
+    "time": "1 hour",
+    "difficulty": "medium"
+  },
+  {
+    "name": "Vegetable Soup",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": 2
+      },
+      {
+        "name": "potato",
+        "quantity": 2
+      },
+      {
+        "name": "onion",
+        "quantity": 1
+      },
+      {
+        "name": "vegetable broth",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Chop vegetables, boil in broth until tender.",
+    "time": "20 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Garlic Bread",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "butter",
+        "quantity": 0.5
+      },
+      {
+        "name": "garlic",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Spread butter with minced garlic on bread slices, then toast in the oven.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Fruit Smoothie",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 1
+      },
+      {
+        "name": "orange",
+        "quantity": 1
+      },
+      {
+        "name": "yogurt",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Blend banana, orange, and yogurt until smooth.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Potato Wedges",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 3
+      },
+      {
+        "name": "olive oil",
+        "quantity": 0.2
+      },
+      {
+        "name": "salt",
+        "quantity": 0.1
+      }
+    ],
+    "instructions": "Cut potatoes into wedges, drizzle with oil and salt, then bake at 200°C for 30 minutes.",
+    "time": "40 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Omelette",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 2
+      },
+      {
+        "name": "cheese",
+        "quantity": 0.3
+      },
+      {
+        "name": "butter",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Whisk eggs, pour into a hot pan with melted butter, and sprinkle cheese on top. Cook until set.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Cucumber Sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "cucumber",
+        "quantity": 1
+      },
+      {
+        "name": "cream cheese",
+        "quantity": 0.3
+      }
+    ],
+    "instructions": "Spread cream cheese on bread, add cucumber slices, and serve.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Pasta with Pesto",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": 200
+      },
+      {
+        "name": "pesto",
+        "quantity": 0.3
+      }
+    ],
+    "instructions": "Boil pasta, then mix with pesto sauce.",
+    "time": "15 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": 4
+      },
+      {
+        "name": "vegetable broth",
+        "quantity": 1
+      },
+      {
+        "name": "onion",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Boil chopped tomatoes and onion in vegetable broth, then blend.",
+    "time": "20 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Banana Pancakes",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 1
+      },
+      {
+        "name": "flour",
+        "quantity": 1
+      },
+      {
+        "name": "milk",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Mash banana, mix with flour and milk, then cook in a pan.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Rice Salad",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": 1
+      },
+      {
+        "name": "cucumber",
+        "quantity": 0.5
+      },
+      {
+        "name": "tomato",
+        "quantity": 1
+      },
+      {
+        "name": "olive oil",
+        "quantity": 0.2
+      }
+    ],
+    "instructions": "Cook rice and mix with chopped cucumber, tomato, and olive oil.",
+    "time": "20 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Toast with Nutella",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "nutella",
+        "quantity": 0.3
+      }
+    ],
+    "instructions": "Toast bread and spread with Nutella.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Chicken Wrap",
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 1
+      },
+      {
+        "name": "tortilla",
+        "quantity": 1
+      },
+      {
+        "name": "lettuce",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Grill chicken, slice, and wrap in tortilla with lettuce.",
+    "time": "15 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Tomato Salad",
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": 2
+      },
+      {
+        "name": "olive oil",
+        "quantity": 0.2
+      },
+      {
+        "name": "salt",
+        "quantity": 0.1
+      }
+    ],
+    "instructions": "Chop tomatoes, drizzle with olive oil, and sprinkle with salt.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Chicken Soup",
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 1
+      },
+      {
+        "name": "vegetable broth",
+        "quantity": 1
+      },
+      {
+        "name": "carrot",
+        "quantity": 1
+      }
+    ],
+    "instructions": "Boil chicken and carrots in vegetable broth, then shred the chicken.",
+    "time": "30 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Fried Rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": 1
+      },
+      {
+        "name": "egg",
+        "quantity": 2
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 0.2
+      }
+    ],
+    "instructions": "Cook rice and eggs, then stir-fry with soy sauce.",
+    "time": "15 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Egg Toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "egg",
+        "quantity": 1
+      },
+      {
+        "name": "butter",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Fry egg and place it on toasted bread with butter.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Crispy Potato Chips",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 3
+      },
+      {
+        "name": "salt",
+        "quantity": 0.1
+      }
+    ],
+    "instructions": "Slice potatoes, drizzle with oil, and bake at 200°C for 25 minutes.",
+    "time": "30 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Avocado Toast",
+    "ingredients": [
+      {
+        "name": "avocado",
+        "quantity": 1
+      },
+      {
+        "name": "bread",
+        "quantity": 2
+      }
+    ],
+    "instructions": "Mash avocado and spread on toasted bread.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Mango Smoothie",
+    "ingredients": [
+      {
+        "name": "mango",
+        "quantity": 1
+      },
+      {
+        "name": "milk",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "Blend mango and milk until smooth.",
+    "time": "5 minutes",
+    "difficulty": "easy"
+  },
+  {
+    "name": "Tomato Bruschetta",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2
+      },
+      {
+        "name": "tomato",
+        "quantity": 1
+      },
+      {
+        "name": "basil",
+        "quantity": 0.1
+      }
+    ],
+    "instructions": "Toast bread and top with chopped tomato and basil.",
+    "time": "10 minutes",
+    "difficulty": "easy"
+  },
+    {
+      "name": "Czech Republic - Svíčková",
+      "ingredients": [
+        {"ingredient": "Beef", "amount": "500 g"},
+        {"ingredient": "Onion", "amount": "1"},
+        {"ingredient": "Carrot", "amount": "1"},
+        {"ingredient": "Sour cream", "amount": "200 g"},
+        {"ingredient": "Water", "amount": "500 ml"}
+      ],
+      "time": "2 hours",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Czech Republic - Trdelník",
+      "ingredients": [
+        {"ingredient": "Flour", "amount": "500 g"},
+        {"ingredient": "Yeast", "amount": "15 g"},
+        {"ingredient": "Sugar", "amount": "100 g"},
+        {"ingredient": "Butter", "amount": "100 g"}
+      ],
+      "time": "2 hours",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Ukraine - Borscht",
+      "ingredients": [
+        {"ingredient": "Beetroot", "amount": "1"},
+        {"ingredient": "Potatoes", "amount": "2"},
+        {"ingredient": "Cabbage", "amount": "100 g"},
+        {"ingredient": "Tomatoes", "amount": "2"},
+        {"ingredient": "Sour cream", "amount": "100 g"}
+      ],
+      "time": "1.5 hours",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Ukraine - Pampushki with garlic",
+      "ingredients": [
+        {"ingredient": "Flour", "amount": "500 g"},
+        {"ingredient": "Yeast", "amount": "20 g"},
+        {"ingredient": "Milk", "amount": "250 ml"},
+        {"ingredient": "Garlic", "amount": "3 cloves"},
+        {"ingredient": "Salt", "amount": "1 tsp"}
+      ],
+      "time": "2 hours",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Poland - Żurek",
+      "ingredients": [
+        {"ingredient": "Sour rye starter", "amount": "500 ml"},
+        {"ingredient": "Potatoes", "amount": "4"},
+        {"ingredient": "Smoked sausage", "amount": "200 g"},
+        {"ingredient": "Onion", "amount": "1"},
+        {"ingredient": "Garlic", "amount": "2 cloves"}
+      ],
+      "time": "1 hour",
+      "difficulty": "Easy"
+    },
+    {
+      "name": "Poland - Bigos",
+      "ingredients": [
+        {"ingredient": "Sauerkraut", "amount": "500 g"},
+        {"ingredient": "Pork meat", "amount": "300 g"},
+        {"ingredient": "Mushrooms", "amount": "100 g"},
+        {"ingredient": "Onion", "amount": "1"},
+        {"ingredient": "Vegetable oil", "amount": "2 tbsp"}
+      ],
+      "time": "2 hours",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Germany - Schnitzel",
+      "ingredients": [
+        {"ingredient": "Pork", "amount": "500 g"},
+        {"ingredient": "Egg", "amount": "1"},
+        {"ingredient": "Flour", "amount": "100 g"},
+        {"ingredient": "Salt", "amount": "to taste"},
+        {"ingredient": "Vegetable oil", "amount": "for frying"}
+      ],
+      "time": "40 minutes",
+      "difficulty": "Easy"
+    },
+    {
+      "name": "Germany - German Dumplings",
+      "ingredients": [
+        {"ingredient": "Flour", "amount": "400 g"},
+        {"ingredient": "Beef mince", "amount": "250 g"},
+        {"ingredient": "Onion", "amount": "1"},
+        {"ingredient": "Milk", "amount": "100 ml"},
+        {"ingredient": "Egg", "amount": "1"}
+      ],
+      "time": "1 hour",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Spain - Paella",
+      "ingredients": [
+        {"ingredient": "Rice", "amount": "200 g"},
+        {"ingredient": "Chicken", "amount": "200 g"},
+        {"ingredient": "Seafood", "amount": "200 g"},
+        {"ingredient": "Tomatoes", "amount": "2"},
+        {"ingredient": "Olive oil", "amount": "2 tbsp"}
+      ],
+      "time": "1 hour",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Spain - Gazpacho",
+      "ingredients": [
+        {"ingredient": "Tomatoes", "amount": "4"},
+        {"ingredient": "Cucumbers", "amount": "2"},
+        {"ingredient": "Bell pepper", "amount": "1"},
+        {"ingredient": "Olive oil", "amount": "2 tbsp"},
+        {"ingredient": "Garlic", "amount": "2 cloves"}
+      ],
+      "time": "30 minutes",
+      "difficulty": "Easy"
+    },
+    {
+      "name": "Greece - Moussaka",
+      "ingredients": [
+        {"ingredient": "Eggplant", "amount": "2"},
+        {"ingredient": "Ground beef", "amount": "300 g"},
+        {"ingredient": "Potatoes", "amount": "3"},
+        {"ingredient": "Milk", "amount": "200 ml"},
+        {"ingredient": "Cheese", "amount": "100 g"}
+      ],
+      "time": "1.5 hours",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Greece - Souvlaki",
+      "ingredients": [
+        {"ingredient": "Chicken fillet", "amount": "500 g"},
+        {"ingredient": "Olive oil", "amount": "2 tbsp"},
+        {"ingredient": "Lemon", "amount": "1"},
+        {"ingredient": "Garlic", "amount": "2 cloves"}
+      ],
+      "time": "1 hour",
+      "difficulty": "Easy"
+    },
+    {
+      "name": "USA - Burger",
+      "ingredients": [
+        {"ingredient": "Ground beef", "amount": "300 g"},
+        {"ingredient": "Buns", "amount": "2"},
+        {"ingredient": "Cheese", "amount": "2 slices"},
+        {"ingredient": "Lettuce", "amount": "to taste"},
+        {"ingredient": "Ketchup", "amount": "to taste"}
+      ],
+      "time": "30 minutes",
+      "difficulty": "Easy"
+    },
+    {
+      "name": "USA - Pancakes",
+      "ingredients": [
+        {"ingredient": "Flour", "amount": "200 g"},
+        {"ingredient": "Milk", "amount": "200 ml"},
+        {"ingredient": "Egg", "amount": "1"},
+        {"ingredient": "Sugar", "amount": "2 tbsp"}
+      ],
+      "time": "20 minutes",
+      "difficulty": "Easy"
+    },
+    {
+      "name": "Netherlands - Potatenslat",
+      "ingredients": [
+        {"ingredient": "Potatoes", "amount": "500 g"},
+        {"ingredient": "Egg", "amount": "1"},
+        {"ingredient": "Salt", "amount": "to taste"},
+        {"ingredient": "Flour", "amount": "100 g"}
+      ],
+      "time": "40 minutes",
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Netherlands - Herring under marinade",
+      "ingredients": [
+        {"ingredient": "Herring", "amount": "2"},
+        {"ingredient": "Onion", "amount": "1"},
+        {"ingredient": "Vinegar", "amount": "1 tbsp"},
+        {"ingredient": "Carrot", "amount": "1"}
+      ],
+      "time": "2 hours",
+      "difficulty": "Easy"
+    }
+  ]
+
